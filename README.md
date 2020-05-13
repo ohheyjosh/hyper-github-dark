@@ -1,4 +1,4 @@
-# GitHub Theme for [Hyper](https://hyper.is/) <img width='32' alt='Hyper GitHub Theme' src='https://cloud.githubusercontent.com/assets/10454741/21241774/9172ddb6-c311-11e6-91ee-e4225ab9560a.gif'>
+# GitHub Dark Theme for [Hyper](https://hyper.is/) <img width='32' alt='Hyper GitHub Theme' src='https://cloud.githubusercontent.com/assets/10454741/21241774/9172ddb6-c311-11e6-91ee-e4225ab9560a.gif'>
 
 Based on the official [GitHub Theme for VS Code](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
