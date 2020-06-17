@@ -27,12 +27,12 @@ Some of Hyper's customizable properties will override the ones specified by the 
 
 ```js
 {
-  config: {
-    cursorColor: '',
-    padding: '',
-    foregroundColor: ''
-    termCss: ''
-    css: ''
+  "config": {
+    "cursorColor": "",
+    "padding": "",
+    "foregroundColor": "",
+    "termCss": "",
+    "css": ""
   }
 }
 ```
