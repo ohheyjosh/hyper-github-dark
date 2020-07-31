@@ -13,12 +13,11 @@ Based on the official [GitHub Theme for VS Code](https://marketplace.visualstudi
 
 1. Edit your `~/.hyper.js` file (**Hyper > Preferences...**)
 2. Add `hyper-github-dark` to your plugins list:
+
 ```js
-plugins: [
-  ...
-  'hyper-github-dark'
-]
+plugins: [..."hyper-github-dark"];
 ```
+
 1. Reload Hyper: **View -> Full Reload** or **Cmd + Shift + R**
 
 ## Customize (optional)
